@@ -1,12 +1,5 @@
-# CKAN
+# CERec-KG
 
-This repository is the implementation of CKAN :
-
-> CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems，SIGIR 2020
->
-> Ze Wang, Guangyan Lin, Huobin Tan, Qinghong Chen, and Xiyang Liu
-
-![](https://github.com/weberrr/CKAN/blob/master/framework.png)
 
 ## Required packages
 
